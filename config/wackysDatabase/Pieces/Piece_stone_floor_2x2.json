@@ -1,0 +1,18 @@
+{
+    "name": "stone_floor_2x2",
+    "m_name": "$piece_stonefloor2x2",
+    "m_description": "",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "$piece_stonecutter",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Building",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": false,
+    "reqs": [
+        "Stone:4:1:True"
+    ]
+}

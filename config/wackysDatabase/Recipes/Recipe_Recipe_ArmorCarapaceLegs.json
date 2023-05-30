@@ -1,0 +1,15 @@
+{
+    "name": "Recipe_ArmorCarapaceLegs",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_blackforge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Carapace:20:0:True",
+        "ScaleHide:3:0:True",
+        "Iron:5:0:True",
+        "Eitr:4:0:True"
+    ]
+}

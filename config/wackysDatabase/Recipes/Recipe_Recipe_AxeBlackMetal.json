@@ -1,0 +1,14 @@
+{
+    "name": "Recipe_AxeBlackMetal",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 4,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FineWood:6:0:True",
+        "BlackMetal:20:0:True",
+        "LinenThread:5:0:True"
+    ]
+}

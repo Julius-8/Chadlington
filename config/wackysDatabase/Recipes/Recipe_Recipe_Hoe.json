@@ -1,0 +1,13 @@
+{
+    "name": "Recipe_Hoe",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Wood:5:0:True",
+        "Stone:2:0:True"
+    ]
+}

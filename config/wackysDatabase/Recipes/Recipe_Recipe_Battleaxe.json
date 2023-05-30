@@ -1,0 +1,14 @@
+{
+    "name": "Recipe_Battleaxe",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "ElderBark:30:0:True",
+        "Iron:35:0:True",
+        "LeatherScraps:4:0:True"
+    ]
+}

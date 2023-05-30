@@ -1,0 +1,14 @@
+{
+    "name": "Recipe_KnifeCopper",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Wood:2:0:True",
+        "Copper:8:0:True",
+        "GreydwarfEye:0:0:True"
+    ]
+}

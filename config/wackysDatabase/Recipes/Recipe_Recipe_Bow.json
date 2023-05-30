@@ -1,0 +1,14 @@
+{
+    "name": "Recipe_Bow",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Wood:10:0:True",
+        "LeatherScraps:8:0:True",
+        "DeerHide:0:0:True"
+    ]
+}

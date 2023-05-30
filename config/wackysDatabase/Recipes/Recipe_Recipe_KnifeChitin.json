@@ -1,0 +1,14 @@
+{
+    "name": "Recipe_KnifeChitin",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FineWood:4:0:True",
+        "Chitin:20:0:True",
+        "LeatherScraps:2:0:True"
+    ]
+}

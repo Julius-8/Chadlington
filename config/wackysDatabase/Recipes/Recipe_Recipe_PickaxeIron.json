@@ -1,0 +1,13 @@
+{
+    "name": "Recipe_PickaxeIron",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "RoundLog:3:0:True",
+        "Iron:20:0:True"
+    ]
+}

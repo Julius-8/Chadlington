@@ -1,0 +1,14 @@
+{
+    "name": "Recipe_BowFineWood",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FineWood:10:0:True",
+        "RoundLog:10:0:True",
+        "DeerHide:2:0:True"
+    ]
+}

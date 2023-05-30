@@ -1,0 +1,10 @@
+{
+  "name": "Better_Wisplight",
+  "description": "Configurable wisp mist-clearing radius by Toombe",
+  "version_number": "1.0.0",
+  "website_url": "https://www.nexusmods.com/valheim/mods/2103",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1901"
+  ]
+}
+

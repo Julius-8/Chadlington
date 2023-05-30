@@ -1,0 +1,13 @@
+{
+    "name": "Recipe_ArmorPaddedGreaves",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Iron:10:0:True",
+        "LinenThread:20:0:True"
+    ]
+}

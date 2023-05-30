@@ -1,0 +1,19 @@
+{
+    "name": "itemstandh",
+    "m_name": "$piece_itemstand",
+    "m_description": "$piece_horizontal",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "$piece_workbench",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Furniture",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": false,
+    "reqs": [
+        "FineWood:1:1:True",
+        "BronzeNails:1:1:True"
+    ]
+}

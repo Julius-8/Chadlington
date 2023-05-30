@@ -1,0 +1,20 @@
+{
+    "name": "piece_oven",
+    "m_name": "$piece_oven",
+    "m_description": "",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "$piece_artisanstation",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Crafting",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": false,
+    "reqs": [
+        "Iron:5:1:True",
+        "Stone:10:1:True",
+        "SurtlingCore:4:1:True"
+    ]
+}

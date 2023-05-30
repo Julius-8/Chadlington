@@ -1,0 +1,9 @@
+{
+  "name": "World_Advancement_Progression",
+  "version_number": "0.0.27",
+  "website_url": "https://github.com/OrianaVenture/VentureValheim",
+  "description": "In Beta: Have more control over the world progression. Rebalance creatures and items, control skill levels, and manage world and individual player progress!",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2105"
+  ]
+}

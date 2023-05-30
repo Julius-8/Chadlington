@@ -1,0 +1,14 @@
+{
+    "name": "Recipe_CapeFeather",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_magetable",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Feathers:10:0:True",
+        "ScaleHide:5:0:True",
+        "Eitr:20:0:True"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "stone_pillar",
+    "m_name": "$piece_stonepillar",
+    "m_description": "",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "$piece_stonecutter",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Building",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": false,
+    "reqs": [
+        "Stone:2:1:True"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Recipe_AxeIron",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Wood:4:0:True",
+        "Iron:20:0:True",
+        "LeatherScraps:2:0:True"
+    ]
+}

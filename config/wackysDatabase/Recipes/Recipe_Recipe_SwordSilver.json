@@ -1,0 +1,15 @@
+{
+    "name": "Recipe_SwordSilver",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 3,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Wood:2:0:True",
+        "Silver:40:0:True",
+        "LeatherScraps:3:0:True",
+        "Iron:5:0:True"
+    ]
+}

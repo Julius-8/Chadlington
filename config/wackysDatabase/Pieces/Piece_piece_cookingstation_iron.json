@@ -1,0 +1,18 @@
+{
+    "name": "piece_cookingstation_iron",
+    "m_name": "$piece_cookingstation_iron",
+    "m_description": "",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "$piece_forge",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Crafting",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": false,
+    "reqs": [
+        "Iron:4:1:True"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Recipe_ShieldBoneTower",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 3,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Wood:10:0:True",
+        "BoneFragments:10:0:True",
+        "TrophySkeleton:3:0:True"
+    ]
+}

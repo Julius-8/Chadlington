@@ -1,0 +1,15 @@
+{
+    "name": "Recipe_SpearWolfFang",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 3,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "ElderBark:10:0:True",
+        "WolfFang:4:0:True",
+        "LeatherScraps:2:0:True",
+        "Silver:2:0:True"
+    ]
+}

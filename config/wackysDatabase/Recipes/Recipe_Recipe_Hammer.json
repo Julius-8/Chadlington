@@ -1,0 +1,13 @@
+{
+    "name": "Recipe_Hammer",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Wood:3:0:True",
+        "Stone:2:0:True"
+    ]
+}

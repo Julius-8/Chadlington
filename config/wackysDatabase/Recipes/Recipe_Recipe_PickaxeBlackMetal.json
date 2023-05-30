@@ -1,0 +1,13 @@
+{
+    "name": "Recipe_PickaxeBlackMetal",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "YggdrasilWood:3:0:True",
+        "BlackMetal:25:0:True"
+    ]
+}

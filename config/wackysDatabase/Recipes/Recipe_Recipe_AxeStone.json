@@ -1,0 +1,13 @@
+{
+    "name": "Recipe_AxeStone",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Wood:5:0:True",
+        "Stone:4:0:True"
+    ]
+}

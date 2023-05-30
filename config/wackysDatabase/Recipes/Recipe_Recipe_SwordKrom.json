@@ -1,0 +1,14 @@
+{
+    "name": "Recipe_SwordKrom",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_blackforge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Iron:30:0:True",
+        "Bronze:20:0:True",
+        "ScaleHide:5:0:True"
+    ]
+}

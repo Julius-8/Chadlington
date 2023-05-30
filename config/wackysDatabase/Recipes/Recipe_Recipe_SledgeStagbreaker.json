@@ -1,0 +1,15 @@
+{
+    "name": "Recipe_SledgeStagbreaker",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "RoundLog:20:0:True",
+        "TrophyDeer:5:0:True",
+        "LeatherScraps:2:0:True",
+        "BoneFragments:0:0:True"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Recipe_AtgeirHimminAfl",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_blackforge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "YggdrasilWood:10:0:True",
+        "Eitr:15:0:True",
+        "Silver:5:0:True",
+        "Mandible:2:0:True"
+    ]
+}
