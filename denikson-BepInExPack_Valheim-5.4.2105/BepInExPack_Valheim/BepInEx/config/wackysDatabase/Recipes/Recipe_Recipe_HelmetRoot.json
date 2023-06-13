@@ -1,0 +1,14 @@
+{
+    "name": "Recipe_HelmetRoot",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Root:10:0:True",
+        "ElderBark:10:0:True",
+        "LeatherScraps:4:0:True"
+    ]
+}

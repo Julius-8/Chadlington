@@ -1,0 +1,15 @@
+{
+    "name": "Recipe_SwordMistwalker",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_blackforge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FineWood:3:0:True",
+        "Iron:15:0:True",
+        "Eitr:10:0:True",
+        "Wisp:3:0:True"
+    ]
+}

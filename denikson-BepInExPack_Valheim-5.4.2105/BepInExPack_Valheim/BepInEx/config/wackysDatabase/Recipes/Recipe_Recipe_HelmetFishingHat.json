@@ -1,0 +1,23 @@
+{
+    "name": "Recipe_HelmetFishingHat",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Fish1:1:0:True",
+        "Fish2:1:0:True",
+        "Fish3:1:0:True",
+        "Fish4_cave:1:0:True",
+        "Fish5:1:0:True",
+        "Fish6:1:0:True",
+        "Fish7:1:0:True",
+        "Fish8:1:0:True",
+        "Fish9:1:0:True",
+        "Fish10:1:0:True",
+        "Fish11:1:0:True",
+        "Fish12:1:0:True"
+    ]
+}

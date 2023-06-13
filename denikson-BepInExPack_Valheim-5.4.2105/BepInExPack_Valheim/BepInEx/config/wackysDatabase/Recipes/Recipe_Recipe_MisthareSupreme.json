@@ -1,0 +1,14 @@
+{
+    "name": "Recipe_MisthareSupreme",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_cauldron",
+    "minStationLevel": 5,
+    "amount": 2,
+    "disabled": false,
+    "reqs": [
+        "HareMeat:1:1:True",
+        "MushroomJotunPuffs:3:1:True",
+        "Carrot:2:1:True"
+    ]
+}

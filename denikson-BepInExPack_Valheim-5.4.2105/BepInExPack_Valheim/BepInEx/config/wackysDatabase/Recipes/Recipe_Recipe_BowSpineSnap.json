@@ -1,0 +1,14 @@
+{
+    "name": "Recipe_BowSpineSnap",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_blackforge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FineWood:10:0:True",
+        "BoneFragments:40:0:True",
+        "Eitr:10:0:True"
+    ]
+}

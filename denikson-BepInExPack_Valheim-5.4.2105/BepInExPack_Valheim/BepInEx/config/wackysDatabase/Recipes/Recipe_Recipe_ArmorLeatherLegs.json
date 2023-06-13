@@ -1,0 +1,13 @@
+{
+    "name": "Recipe_ArmorLeatherLegs",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "DeerHide:6:0:True",
+        "BoneFragments:0:0:True"
+    ]
+}

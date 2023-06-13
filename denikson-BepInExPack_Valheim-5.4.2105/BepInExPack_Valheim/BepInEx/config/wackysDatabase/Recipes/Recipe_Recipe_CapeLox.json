@@ -1,0 +1,13 @@
+{
+    "name": "Recipe_CapeLox",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "LoxPelt:6:0:True",
+        "Silver:2:0:True"
+    ]
+}

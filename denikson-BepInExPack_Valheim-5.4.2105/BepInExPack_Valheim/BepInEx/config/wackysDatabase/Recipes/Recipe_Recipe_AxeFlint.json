@@ -1,0 +1,14 @@
+{
+    "name": "Recipe_AxeFlint",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Wood:4:0:True",
+        "Flint:6:0:True",
+        "LeatherScraps:0:0:True"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "ValheimPlus_Grantapher_Temporary",
+    "version_number": "9.9.15",
+    "website_url": "https://discord.gg/XamVGpgnJT",
+    "description": "A temporary Valheim Plus fork by Grantapher while we wait for the main mod to be updated.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2105"
+    ]
+}

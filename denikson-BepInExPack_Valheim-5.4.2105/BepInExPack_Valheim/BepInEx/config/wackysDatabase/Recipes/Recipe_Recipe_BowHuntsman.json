@@ -1,0 +1,15 @@
+{
+    "name": "Recipe_BowHuntsman",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FineWood:10:0:True",
+        "Iron:20:0:True",
+        "Feathers:10:0:True",
+        "DeerHide:2:0:True"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Recipe_HelmetCarapace",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_blackforge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Carapace:16:0:True",
+        "ScaleHide:3:0:True",
+        "Mandible:2:0:True",
+        "Eitr:4:0:True"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "blackmarble_2x1x1",
+    "m_name": "$piece_blackmarble2x1x1",
+    "m_description": "",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "$piece_stonecutter",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Building",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": false,
+    "reqs": [
+        "BlackMarble:2:1:True"
+    ]
+}

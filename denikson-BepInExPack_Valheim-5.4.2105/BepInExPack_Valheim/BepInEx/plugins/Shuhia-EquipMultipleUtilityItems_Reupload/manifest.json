@@ -1,0 +1,7 @@
+{
+  "name": "EquipMultipleUtilityItems_Reupload",
+  "version_number": "0.4.0",
+  "website_url": "https://www.nexusmods.com/valheim/mods/1348",
+  "description": "Lets you equip multiple utility items at the same time.",
+  "dependencies": ["denikson-BepInExPack_Valheim-5.4.800"]
+}

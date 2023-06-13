@@ -1,0 +1,13 @@
+{
+    "name": "Recipe_CapeLinen",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "LinenThread:20:0:True",
+        "Silver:1:0:True"
+    ]
+}

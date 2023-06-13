@@ -1,0 +1,8 @@
+{
+    "name": "Valheim_FPV",
+    "version_number": "0.0.8422",
+    "website_url": "https://www.nexusmods.com/valheim/mods/44",
+    "description": "First Person mod for Valheim",
+    "dependencies": ["denikson-BepInExPack_Valheim-5.4.901"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Recipe_ArmorIronChest",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Iron:20:0:True",
+        "DeerHide:2:0:True"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Recipe_MushroomOmelette",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_cauldron",
+    "minStationLevel": 5,
+    "amount": 2,
+    "disabled": false,
+    "reqs": [
+        "ChickenEgg:3:1:True",
+        "MushroomJotunPuffs:3:1:True"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Recipe_ShieldBronzeBuckler",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Bronze:10:0:True",
+        "Wood:4:0:True"
+    ]
+}

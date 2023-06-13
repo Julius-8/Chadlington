@@ -1,0 +1,13 @@
+{
+    "name": "Recipe_Cultivator",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "RoundLog:5:0:True",
+        "Bronze:5:0:True"
+    ]
+}

@@ -1,0 +1,7 @@
+﻿{
+  "name": "HelmetBeGone",
+  "description": "Successor to my InvisHelm-REmake which contains some bug fixes for armorstand/itemstand and dverger helmet issues. May probably work in co-op/multiplayer mode but not sure. Dont have a way to test it.",
+  "version_number": "1.0.3",
+  "website_url": "",
+  "dependencies": ["denikson-BepInExPack_Valheim-5.4.1901"]
+}

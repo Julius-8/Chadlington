@@ -1,0 +1,15 @@
+{
+    "name": "Recipe_MaceNeedle",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 4,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FineWood:5:0:True",
+        "Iron:20:0:True",
+        "Needle:5:0:True",
+        "LinenThread:10:0:True"
+    ]
+}

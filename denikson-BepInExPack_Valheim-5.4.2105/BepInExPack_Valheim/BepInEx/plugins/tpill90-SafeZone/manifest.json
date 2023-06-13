@@ -1,0 +1,8 @@
+{
+    "name": "SafeZone",
+    "version_number": "1.1.0",
+    "website_url": "",
+    "description": "Displays a Status Effect (Safe) when you're in range of structure that stops monster spawning (such as workbench or torches).",
+    "dependencies": [
+    ]
+}

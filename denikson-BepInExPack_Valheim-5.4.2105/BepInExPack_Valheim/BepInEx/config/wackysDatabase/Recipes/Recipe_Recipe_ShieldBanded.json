@@ -1,0 +1,13 @@
+{
+    "name": "Recipe_ShieldBanded",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FineWood:10:0:True",
+        "Iron:8:0:True"
+    ]
+}

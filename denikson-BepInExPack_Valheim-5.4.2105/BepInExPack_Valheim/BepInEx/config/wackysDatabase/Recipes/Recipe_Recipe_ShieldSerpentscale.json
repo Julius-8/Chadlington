@@ -1,0 +1,14 @@
+{
+    "name": "Recipe_ShieldSerpentscale",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 3,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FineWood:10:0:True",
+        "Iron:4:0:True",
+        "SerpentScale:8:0:True"
+    ]
+}

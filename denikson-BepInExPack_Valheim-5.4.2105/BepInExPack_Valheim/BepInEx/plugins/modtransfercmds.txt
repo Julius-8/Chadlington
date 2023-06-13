@@ -1,0 +1,3 @@
+sudo mv -f /home/julius/Documents/plugins/* /home/julius/valheim-server/config/valheimplus/plugins
+sudo mv -f /home/julius/Documents/cfgfiles/* /home/julius/valheim-server/config/valheimplus/
+

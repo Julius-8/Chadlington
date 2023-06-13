@@ -1,0 +1,14 @@
+{
+    "name": "Recipe_CrossbowArbalest",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_blackforge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false
+    "reqs": [
+        "Wood:10:0:True",
+        "Iron:8:0:True",
+        "Root:4:0:True"
+    ]
+}

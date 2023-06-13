@@ -1,0 +1,14 @@
+{
+    "name": "Recipe_AtgeirBronze",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Wood:10:0:True",
+        "Bronze:8:0:True",
+        "LeatherScraps:2:0:True"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Recipe_KnifeButcher",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Wood:2:0:True",
+        "Tin:4:0:True"
+    ]
+}
